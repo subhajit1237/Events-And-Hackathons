@@ -474,6 +474,11 @@ The participants get a chance to contribute to numerous projects under the guida
 	    Registration Open 
 ***Kick Start*** is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google. 
 
+	
+### - 2- Innovators Hackathon [Link]([https://codingcompetitions.withgoogle.com/kickstart](https://www.hackathon.com/event/intelligent-innovators-hackathon-i2h-2022-426050637927))
+	    Registration Open 
+Hackathon Intelligent Innovators Hackathon (I2H) 2022 in Coimbatore will happen on 2022-11-04. Get all the information about this hackathon. 
+
 </details>
 
 <details>
